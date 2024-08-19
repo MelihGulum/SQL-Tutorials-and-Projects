@@ -15,4 +15,18 @@ I will upload my SQL **projects** and the knowledge I gained on this journey (th
    - Nashville Housing Data
 2. Netflix TV Shows and Movies
 3. 8 Weeks SQL Challenge
-4. Hackerrank-SQL Solutions
+   - Danny's Diner
+   - Pizza Runner
+   - Foodie-Fi
+   - Data Bank
+   - Data Mart
+   - Clique Bait
+   - Balanced Tree Clothing Co
+   - Fresh Segments
+5. HackerRank SQL Solutions
+   - Basic Select
+   - Advanced Select
+   - Aggregation
+   - Basic Join
+   - Advanced Join
+   - Alternative Queries
