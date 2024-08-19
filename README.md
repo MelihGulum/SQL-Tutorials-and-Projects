@@ -15,3 +15,4 @@ I will upload my SQL **projects** and the knowledge I gained on this journey (th
    - Nashville Housing Data
 2. Netflix TV Shows and Movies
 3. 8 Weeks SQL Challenge
+4. Hackerrank-SQL Solutions
